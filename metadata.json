@@ -1,0 +1,5 @@
+{
+  "name": "Smart Task Prioritization Dashboard",
+  "description": "An AI-powered dashboard that integrates with Jira and ServiceNow to automatically prioritize and assign tasks based on urgency, complexity, team workload, and skillsets.",
+  "requestFramePermissions": []
+}
